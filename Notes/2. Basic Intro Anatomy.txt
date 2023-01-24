@@ -1,0 +1,16 @@
+# Basic ANATOMY 
+## Actions:  Walking, Running, Eating,etc
+## Features: Color, tail, nose,salary,etc.
+### Logical Entities: That doesn't exist but logic behind any real entity
+### Like: Flower, Planet,Teacher, Country etc.
+#### Physical Entities: That Exist Really in Real World 
+#### Like: Rose, Earth, Ram, India,etc.
+
+### Class : Collection of actions(methods) and features(fields)
+### Object: Real world implemenation of a Class
+
+# Package: Collection of Classes
+
+###### Eg: Dog : Class , dog can bite(),run(),play() : methods  ,  dog has eyes, nose, ears , color: Properties or features
+###### Eg: Tommy is a Dog of mine: Tommy real world entitity i.e., Object of dog class
+
