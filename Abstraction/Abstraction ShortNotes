@@ -1,0 +1,16 @@
+$ Abstraction
+  -----> It refers to the ways of data hiding or not showing the irrevelant info to the person
+  Eg: A website has 3 sextions 
+  		1. Guest            : Only Gallery
+  		2. Registerd User   : Can See their own Profile only 
+  		3. Admin  			: Can see all the info includings the codes
+  		
+ ------>This split of information can be achived via abstraction
+ ------>In java there are two ways of abstraction
+ 	
+ 	
+ 	1. Via the abstract class :  It provide partial abstraction  since an abstract may or may not have 
+ 	abstract func.
+ 			
+ 	
+ 	2. Via the interface :  It provides 100% abstraction since every function is by deafult abstract 
