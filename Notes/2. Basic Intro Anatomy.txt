@@ -14,3 +14,8 @@
 ###### Eg: Dog : Class , dog can bite(),run(),play() : methods  ,  dog has eyes, nose, ears , color: Properties or features
 ###### Eg: Tommy is a Dog of mine: Tommy real world entitity i.e., Object of dog class
 
+##### Note: In Java Everything follows a hierchy
+######### Function : F()
+######## Under Class: C
+####### Undet Package: P
+

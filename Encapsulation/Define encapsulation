@@ -1,0 +1,12 @@
+$ Encapsulation
+   ----> Encapsulation is a way of bundling up or binding the data and the action over the data together and 
+   also providing a limited access over it.
+   
+   ----> There are 4 Access modifiers used
+     1. Private     : Only access within the class
+     2. Default     : Only access within the package
+     3. Protected   : Only access with the inherited class (become public or be protected)
+     4. Public      : Access anywhere
+     
+     From 1->4 Privileges reduces 
+    
